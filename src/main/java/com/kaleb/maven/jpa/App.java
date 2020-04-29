@@ -11,7 +11,7 @@ import javax.persistence.Persistence;
 public class App 
 {
     public static void main( String[] args )
- //
+ 
     {
     	Rest rr = new Rest();
     	rr.setId(106);
